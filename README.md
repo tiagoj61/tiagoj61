@@ -1,6 +1,6 @@
 <h1> Hi there, I'm Tiago! <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="50"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/302/flag-brazil_1f1e7-1f1f7.png" width="50"> </h1>
 
-[![Gmail Badge](https://img.shields.io/badge/-tiagoj61@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagoj61@gmail.com)](mailto:italord.melo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tiagoj61@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagoj61@gmail.com)](mailto:tiagoj61@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagoj61/)](https://www.linkedin.com/in/tiagoj61/)
 
 
@@ -10,6 +10,7 @@
 - I'm a Java Developer :)
   - Full Stack and Android
 - DataBase lover
+- I’m currently learning Haskell
 </details>
 
 <div>
