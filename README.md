@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1> Hi there, I'm Tiago! <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="50"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/302/flag-brazil_1f1e7-1f1f7.png" width="50"> </h1>
 
-<!--
-**tiagoj61/tiagoj61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail Badge](https://img.shields.io/badge/-tiagoj61@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagoj61@gmail.com)](mailto:italord.melo@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagoj61/)](https://www.linkedin.com/in/tiagoj61/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details open>
+  <summary>About Me</summary>
+
+- I'm a Java Developer :)
+  - Full Stack and Android
+- DataBase lover
+</details>
+
+<div>
+  <a href="https://github.com/tiagoj61">
+
+  <img height="184em" src="https://github-readme-stats.vercel.app/api?username=tiagoj610&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="184em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoj61&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+</div>
