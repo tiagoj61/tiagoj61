@@ -16,6 +16,9 @@
 <div>
   <a href="https://github.com/tiagoj61">
 
-  <img height="184em" src="https://github-readme-stats.vercel.app/api?username=tiagoj610&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="184em" src="https://github-readme-stats.vercel.app/api?username=tiagoj61&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="184em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoj61&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
 </div>
+
+  
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
