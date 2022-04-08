@@ -14,7 +14,7 @@
 </details>
 
 
-<div align="center">
+<div >
   <img height="184em" src="https://github-readme-stats.vercel.app/api?username=tiagoj61&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="184em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoj61&layout=compact&langs_count=6&theme=vision-friendly-dark"/>
 
