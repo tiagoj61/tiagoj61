@@ -11,4 +11,5 @@
   - Sometimes Angular too :P
 - DataBase lover
 - I’m currently learning Quantum Computing 
+
 </details>
